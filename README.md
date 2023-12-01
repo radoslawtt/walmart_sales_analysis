@@ -37,5 +37,3 @@ The SQL queries in this project are designed to answer the following specific qu
 26. Which day of the week has the best average ratings?
 27. Which day of the week has the best average ratings per branch?
 
-These questions are addressed through a series of SQL queries, providing a comprehensive analysis of Walmart's sales data. The insights derived from these queries are instrumental in making data-driven decisions to enhance business performance.
-
